@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yourusername&color=006bed)
+
 
 # Hi there, I'm Vinicius! 👋
 
@@ -30,6 +30,5 @@
 ## Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-willian)
 
-[![GitHub](https://img.shields.io/github/followers/viniciuzsk?label=Follow&style=social)](https://github.com/viniciuzsk)
 
 
