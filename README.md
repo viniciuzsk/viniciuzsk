@@ -26,7 +26,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=php)
-![Laravel]([https://img.shields.io/badge/-Node.js-333333?style=flat&logo=php](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white))
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-willian)
