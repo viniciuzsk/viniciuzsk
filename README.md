@@ -23,9 +23,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 ### **Backend Development**
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## Where to Find Me
