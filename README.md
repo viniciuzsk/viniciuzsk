@@ -1,8 +1,10 @@
+<div align="center">
+  <h1>Hi there, I'm Vinicius! 👋</h1>
+</div>
 
+<br />
 
-# Hi there, I'm Vinicius! 👋
-
-## About Me
+## 👨‍💻 About Me
 
 - 🎓 Studying Computer Engineering at UFGD.
 - 🌱 Currently learning **Vue.js** and **React**.
@@ -11,23 +13,31 @@
 
 ---
 
-## My Skills
+## 🛠️ My Skills
 
 ### **Frontend Development**
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-151515?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-151515?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+<br />
 
 ### **Backend Development**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/Laravel-151515?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+</div>
 
-## Where to Find Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-willian)
+<br />
 
-
-
+## 🌐 Where to Find Me
+<div align="left">
+  <a href="https://linkedin.com/in/vinicius-willian" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
